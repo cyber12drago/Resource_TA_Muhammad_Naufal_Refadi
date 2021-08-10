@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-depot-306618",
+  "private_key_id": "ebb8d06ff9ca3f7f25e54f4bbe2d7cf3c916ad0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOCSblytANMtYi\nrkrSVcgnKhQ2Kq8dcjxbSoUf3R5543bhbXvaBF7wMbl+IcTKSggL/CLVBI6yMur0\nYR8vsdVsDYAYFnsuAGMbIpIlyijd8Lpde5dTWARmHFGy4M+3/gJItQ1KDXvJs/eW\nGTUoBRj8csrRlrGE20Zk/n2lTYzjw33iLNvsbhiU/1NbTGEVt8vRGar083g1sWU+\nRRShvtNCPq+S+OmXW8y+R33430Gd3zbqpYuwNgXS+xRmYW/1UWVelusUGy24FcnK\ngNCEb0ghVQ1Jht8acON4Fcq85tXEmjYrCtm11raN5bDr3nRP9v8hk1BCB87h8Lt8\nc6TTFRZtAgMBAAECggEAATEh1CQ5fRj923lfDQnreE3/rjN5JZqHgv3So3drAi75\nSfQqymOfrxy1MjR4eQpQu5oVV6LNLiFDi6KC3kaAGCzuN+inyRsTVZDrTLlVRblJ\nIA10hJb65Wa6if/pNdoDd156ojPFXeQWK/x0re9SrmogH/rwun8p+wXbebB4S5YT\nnERKliephsxZTRvN69xOoLaLyWRito/yzkcdpjBtB8xRa9uQYC9lpc/BtbSzamRh\nIxD0Y1ZT/CTEPtHq/GASGYFk5d7H1M4VrFl8Bu3reVVrCavrDRXO8J7EBlqr+qaD\n/l4XFIT6PQ4WkkGF+ALZ1XIZPcRf8ynHuv7V17BbYQKBgQDqxejy9/7fBwZ313Ta\njKF1nswwjLRUKvwIpiuUln+uajvFSlBRFYmerEBPyPSvSJ5mezrPERfgYPZ2YcIm\np8sIf3QhCgeFMZUPrx/hPSrHNbZUAQUMHNcMxzxUkDcUQWHffVi8xP0WS6ZrZniE\nyyFGtgrG7DIrmomDGTt3NYRY1QKBgQDgqhVrJt0Bmu42OfIy/SldBm5FjnAi0Qw3\nkvnQXqdXG/lE00UAB+TWx9coVogtTT5uaCcWdFH3TTqB8BM9q8sBSEXDd/7K+Leu\nse/q/hvxYGqpJwAwNt1jnQQ9jgidjZl/ADJUE+C4xRwv6Bjac32kDZZ6Nf+DRSeY\njlJlcK+TOQKBgDTUAd4idcSD1S3EWrQO7woDiJjoIG/MGFht4+KUlviNSRPU7AvC\n1+vPgM0zP/PtWE9hLVOI2iGQUAVFbCW8nhA0ddI1aonLJWqZEohhdi3LZVKzxAn8\nt1tVvbqdlPdG2xoqH3yiqvyIW1NRhI8FEmDR98zZO1TaelT4qYvii/xdAoGAScgx\n3o3V2RgbkV14aDxyICXjgx5jP1vuKjYvqrnbNSVvuKW1rGvrQIpC4/F/KXmLvlCg\nPaSX4qLPSysf9on70oD8wFQhLmF+WXYAd+laHexvOvwe+LacAIHpiZmixLNjLK1Q\n2gHpNGUve6A6wUtagM0hlSM0tdS5S0W6U6wtTSkCgYBwxJDTnEfGTooebvvIm8We\nWsS+kGXKzxbP/cMMGHxRMeNC/D6JyiBkL+y84raDDnMh1Ks999dNfv5Dxe5T1HcR\nvsQ4ijo+334YOuJkCvWeSUbXFuvIbfqMDaI7tIQMmFQ/HX1iYixqiyRgNzYj4uSS\nEqWbwDPA0goF7Lu7+ZFqDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "refadi@ultra-depot-306618.iam.gserviceaccount.com",
+  "client_id": "106167340712346683488",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/refadi%40ultra-depot-306618.iam.gserviceaccount.com"
+}
